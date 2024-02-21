@@ -1,4 +1,4 @@
-print("water jug problrm")
+print("water_jug problem")
 from collections import defaultdict
 jug1, jug2, aim = 4, 3, 2
 visited = defaultdict(lambda: False)
