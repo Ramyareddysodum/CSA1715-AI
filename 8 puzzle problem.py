@@ -51,3 +51,5 @@ if solution:
         print(solution[i:i+3])
 else:
     print("No solution found.")
+
+
